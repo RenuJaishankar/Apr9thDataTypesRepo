@@ -5,6 +5,7 @@ class Solution{
     public static void main(String []argh)
     {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Please enter the total number of times");
         int t=sc.nextInt();
 
         for(int i=0;i<t;i++)
